@@ -1,0 +1,10 @@
+1;1;SLA;Woj.Œl¹skie;Region;
+2;2;OPOL;Woj.Opolskie;Region;
+3;3;MAZ;Woj.Mazurskie;Region;
+4;1;KP;Woj.Kujawsko-pomorskie;City;
+5;2;WWA;Warszawa;City;
+6;3;SOP;Sopot;City;
+7;1;ADR;Adres;Zameldowania;AddressType
+8;2;CORESP;Adres;Korespondencyjny;AddressType
+9;1;ADM;administrator;UserType;
+10;2;USR;uzytkownik;USERType;
